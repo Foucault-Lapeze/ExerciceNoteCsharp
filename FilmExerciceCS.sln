@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmExerciceCS", "FilmExerciceCS\FilmExerciceCS.csproj", "{0AADBAE4-0436-4431-8AB2-0CEACE2B7710}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptimisationDesImages", "OptimisationDesImages\OptimisationDesImages.csproj", "{8EEFF013-F0D5-4374-B694-035E40771653}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{0AADBAE4-0436-4431-8AB2-0CEACE2B7710}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AADBAE4-0436-4431-8AB2-0CEACE2B7710}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AADBAE4-0436-4431-8AB2-0CEACE2B7710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EEFF013-F0D5-4374-B694-035E40771653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EEFF013-F0D5-4374-B694-035E40771653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EEFF013-F0D5-4374-B694-035E40771653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EEFF013-F0D5-4374-B694-035E40771653}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
