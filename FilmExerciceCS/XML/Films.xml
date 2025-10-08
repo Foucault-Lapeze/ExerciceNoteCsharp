@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<filmographie>
+    <acteur>Louis de Funès</acteur>
+    <films>
+        <film>
+            <titre>La Traversée de Paris</titre>
+            <annee>1956</annee>
+            <role>Grégoire</role>
+            <realisateur>Claude Autant-Lara</realisateur>
+        </film>
+        <film>
+            <titre>Le Petit Baigneur</titre>
+            <annee>1968</annee>
+            <role>Louis-Philippe Fourchaume</role>
+            <realisateur>Robert Dhéry</realisateur>
+        </film>
+        <film>
+            <titre>La Soupe aux choux</titre>
+            <annee>1981</annee>
+            <role>Claude Ratinier</role>
+            <realisateur>Jean Girault</realisateur>
+        </film>
+        <film>
+            <titre>Le Gendarme de Saint-Tropez</titre>
+            <annee>1964</annee>
+            <role>Maréchal des logis-chef Ludovic Cruchot</role>
+            <realisateur>Jean Girault</realisateur>
+        </film>
+        <film>
+            <titre>Les Aventures de Rabbi Jacob</titre>
+            <annee>1973</annee>
+            <role>Victor Pivert / Rabbi Jacob</role>
+            <realisateur>Gérard Oury</realisateur>
+        </film>
+        <film>
+            <titre>Le Grand Restaurant</titre>
+            <annee>1966</annee>
+            <role>Le patron</role>
+            <realisateur>Jacques Besnard</realisateur>
+        </film>
+        <film>
+            <titre>La Zizanie</titre>
+            <annee>1978</annee>
+            <role>Gérard</role>
+            <realisateur>Claude Zidi</realisateur>
+        </film>
+        <film>
+            <titre>Le Crocodile</titre>
+            <annee>1975</annee>
+            <role>Dictateur sud-américain</role>
+            <realisateur>Gérard Oury</realisateur>
+        </film>
+        <film>
+            <titre>Le Cabbage Soup</titre>
+            <annee>1981</annee>
+            <role>Le général</role>
+            <realisateur>Jean Girault</realisateur>
+        </film>
+    </films>
+</filmographie>

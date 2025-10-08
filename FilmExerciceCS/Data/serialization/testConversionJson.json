@@ -1,0 +1,65 @@
+[
+  {
+    "FilmId": "1",
+    "Titre": "La Travers\u00E9e de Paris",
+    "Annee": "1956",
+    "Role": "Gr\u00E9goire",
+    "Realisateur": "Claude Autant-Lara"
+  },
+  {
+    "FilmId": "4",
+    "Titre": "Le Gendarme de Saint-Tropez",
+    "Annee": "1964",
+    "Role": "Mar\u00E9chal des logis-chef Ludovic Cruchot",
+    "Realisateur": "Jean Girault"
+  },
+  {
+    "FilmId": "6",
+    "Titre": "Le Grand Restaurant",
+    "Annee": "1966",
+    "Role": "Le patron",
+    "Realisateur": "Jacques Besnard"
+  },
+  {
+    "FilmId": "2",
+    "Titre": "Le Petit Baigneur",
+    "Annee": "1968",
+    "Role": "Louis-Philippe Fourchaume",
+    "Realisateur": "Robert Dh\u00E9ry"
+  },
+  {
+    "FilmId": "5",
+    "Titre": "Les Aventures de Rabbi Jacob",
+    "Annee": "1973",
+    "Role": "Victor Pivert / Rabbi Jacob",
+    "Realisateur": "G\u00E9rard Oury"
+  },
+  {
+    "FilmId": "8",
+    "Titre": "Le Crocodile",
+    "Annee": "1975",
+    "Role": "Dictateur sud-am\u00E9ricain",
+    "Realisateur": "G\u00E9rard Oury"
+  },
+  {
+    "FilmId": "7",
+    "Titre": "La Zizanie",
+    "Annee": "1978",
+    "Role": "G\u00E9rard",
+    "Realisateur": "Claude Zidi"
+  },
+  {
+    "FilmId": "3",
+    "Titre": "La Soupe aux choux",
+    "Annee": "1981",
+    "Role": "Claude Ratinier",
+    "Realisateur": "Jean Girault"
+  },
+  {
+    "FilmId": "9",
+    "Titre": "Le Cabbage Soup",
+    "Annee": "1981",
+    "Role": "Le g\u00E9n\u00E9ral",
+    "Realisateur": "Jean Girault"
+  }
+]

@@ -1,0 +1,15 @@
+/Users/foucault/RiderProjects/FilmExerciceCS/FilmExerciceCS/bin/Debug/net8.0/FilmExerciceCS
+/Users/foucault/RiderProjects/FilmExerciceCS/FilmExerciceCS/bin/Debug/net8.0/FilmExerciceCS.deps.json
+/Users/foucault/RiderProjects/FilmExerciceCS/FilmExerciceCS/bin/Debug/net8.0/FilmExerciceCS.runtimeconfig.json
+/Users/foucault/RiderProjects/FilmExerciceCS/FilmExerciceCS/bin/Debug/net8.0/FilmExerciceCS.dll
+/Users/foucault/RiderProjects/FilmExerciceCS/FilmExerciceCS/bin/Debug/net8.0/FilmExerciceCS.pdb
+/Users/foucault/RiderProjects/FilmExerciceCS/FilmExerciceCS/obj/Debug/net8.0/FilmExerciceCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/foucault/RiderProjects/FilmExerciceCS/FilmExerciceCS/obj/Debug/net8.0/FilmExerciceCS.AssemblyInfoInputs.cache
+/Users/foucault/RiderProjects/FilmExerciceCS/FilmExerciceCS/obj/Debug/net8.0/FilmExerciceCS.AssemblyInfo.cs
+/Users/foucault/RiderProjects/FilmExerciceCS/FilmExerciceCS/obj/Debug/net8.0/FilmExerciceCS.csproj.CoreCompileInputs.cache
+/Users/foucault/RiderProjects/FilmExerciceCS/FilmExerciceCS/obj/Debug/net8.0/FilmExerciceCS.dll
+/Users/foucault/RiderProjects/FilmExerciceCS/FilmExerciceCS/obj/Debug/net8.0/refint/FilmExerciceCS.dll
+/Users/foucault/RiderProjects/FilmExerciceCS/FilmExerciceCS/obj/Debug/net8.0/FilmExerciceCS.pdb
+/Users/foucault/RiderProjects/FilmExerciceCS/FilmExerciceCS/obj/Debug/net8.0/FilmExerciceCS.genruntimeconfig.cache
+/Users/foucault/RiderProjects/FilmExerciceCS/FilmExerciceCS/obj/Debug/net8.0/ref/FilmExerciceCS.dll
+/Users/foucault/RiderProjects/FilmExerciceCS/FilmExerciceCS/bin/Debug/net8.0/XML/Films.xml
